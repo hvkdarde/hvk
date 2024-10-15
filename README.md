@@ -1,2 +1,2 @@
 # hello-world
-Repositório criado para minha introdução
+Fmby, archlinux user, learning rust and javascript
